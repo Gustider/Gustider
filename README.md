@@ -1,28 +1,15 @@
-<div align="center">
-  <img src="./assets/foto-perfil.jpg" width="200" style="border-radius: 16px; border: 2px solid #00f5d4; box-shadow: 0 0 40px rgba(0,245,212,0.4);" alt="Gustavo Astorga"/>
-  
-  <h1 style="font-size: 2.4em; margin-top: 20px;">
-    👾 Hola, soy <span style="background: linear-gradient(90deg, #00f5d4, #7b2cbf); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Gustavo Astorga</span>
-  </h1>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Data_Analyst-00f5d4?style=for-the-badge&logo=databricks&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/📍_Mendoza,_Argentina-111111?style=flat-square&logo=googlemaps&logoColor=00f5d4"/>
-  </p>
-</div>
+<img src="./assets/foto-perfil.jpg" align="right" width="260" alt="Gustavo Astorga" />
 
-<br>
+# 👋 Hola, soy Gustavo Astorga
 
-```diff
-+ Data Analyst certificado
-+ Base matemática & estadística (Ingeniería Química · UTN Mendoza)
-+ Especializado en ciencia de datos aplicada a industria y procesos
+### Data Analyst | Python · SQL · Power BI
+📍 Mendoza, Argentina
+
+Data Analyst certificado con base en matemáticas y estadística (Ingeniería Química, UTN Mendoza). Mi objetivo es aplicar la ciencia de datos al ámbito **industrial y de procesos** para mejorar la toma de decisiones en entornos complejos.
+
+<br clear="right" />
+
+---
 
 ## 🔭 En qué estoy ahora
 
