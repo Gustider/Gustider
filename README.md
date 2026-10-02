@@ -1,29 +1,28 @@
 <div align="center">
-  <img src="./assets/foto-perfil.jpg" width="220" style="border-radius: 50%; border: 3px solid #00f5d4; box-shadow: 0 0 25px #00f5d4;" alt="Gustavo Astorga"/>
+  <img src="./assets/foto-perfil.jpg" width="200" style="border-radius: 16px; border: 2px solid #00f5d4; box-shadow: 0 0 40px rgba(0,245,212,0.4);" alt="Gustavo Astorga"/>
   
-  <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" height="35"/> 
-    Hola, soy <span style="color:#00f5d4;">Gustavo Astorga</span>
+  <h1 style="font-size: 2.4em; margin-top: 20px;">
+    👾 Hola, soy <span style="background: linear-gradient(90deg, #00f5d4, #7b2cbf); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Gustavo Astorga</span>
   </h1>
   
-  <h3>
-    <code>Data Analyst</code> · <code>Python</code> · <code>SQL</code> · <code>Power BI</code>
-  </h3>
+  <p>
+    <img src="https://img.shields.io/badge/Data_Analyst-00f5d4?style=for-the-badge&logo=databricks&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </p>
   
   <p>
-    <img src="https://img.shields.io/badge/📍_Mendoza-Argentina-00f5d4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📍_Mendoza,_Argentina-111111?style=flat-square&logo=googlemaps&logoColor=00f5d4"/>
   </p>
 </div>
 
 <br>
 
-> **Data Analyst certificado** con sólida base en matemáticas y estadística  
-> (Ingeniería Química · UTN Mendoza)  
-
-Aplico **ciencia de datos** al mundo **industrial y de procesos**  
-para potenciar la toma de decisiones en entornos complejos.
-
----
+```diff
++ Data Analyst certificado
++ Base matemática & estadística (Ingeniería Química · UTN Mendoza)
++ Especializado en ciencia de datos aplicada a industria y procesos
 
 ## 🔭 En qué estoy ahora
 
