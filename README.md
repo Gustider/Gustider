@@ -1,6 +1,6 @@
-<img src="./assets/foto-perfil.jpg" align="right" width="240" alt="Gustavo Astorga" />
-
 # 👋 Hola, soy Gustavo Astorga
+
+<img src="./assets/foto-perfil.jpg" align="right" width="240" alt="Gustavo Astorga" />
 
 ### Data Analyst | Python · SQL · Power BI
 📍 Mendoza, Argentina
