@@ -1,13 +1,27 @@
-<img src="./assets/foto-perfil.jpg" align="right" width="260" alt="Gustavo Astorga" />
+<div align="center">
+  <img src="./assets/foto-perfil.jpg" width="220" style="border-radius: 50%; border: 3px solid #00f5d4; box-shadow: 0 0 25px #00f5d4;" alt="Gustavo Astorga"/>
+  
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" height="35"/> 
+    Hola, soy <span style="color:#00f5d4;">Gustavo Astorga</span>
+  </h1>
+  
+  <h3>
+    <code>Data Analyst</code> · <code>Python</code> · <code>SQL</code> · <code>Power BI</code>
+  </h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/📍_Mendoza-Argentina-00f5d4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  </p>
+</div>
 
-# 👋 Hola, soy Gustavo Astorga
+<br>
 
-### Data Analyst | Python · SQL · Power BI
-📍 Mendoza, Argentina
+> **Data Analyst certificado** con sólida base en matemáticas y estadística  
+> (Ingeniería Química · UTN Mendoza)  
 
-Data Analyst certificado con base en matemáticas y estadística (Ingeniería Química, UTN Mendoza). Mi objetivo es aplicar la ciencia de datos al ámbito **industrial y de procesos** para mejorar la toma de decisiones en entornos complejos.
-
-<br clear="right" />
+Aplico **ciencia de datos** al mundo **industrial y de procesos**  
+para potenciar la toma de decisiones en entornos complejos.
 
 ---
 
