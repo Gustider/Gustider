@@ -1,13 +1,9 @@
 # 👋 Hola, soy Gustavo Astorga
 
-<img src="./assets/foto-perfil.jpg" align="right" width="240" alt="Gustavo Astorga" />
-
 ### Data Analyst | Python · SQL · Power BI
 📍 Mendoza, Argentina
 
 Data Analyst certificado con base en matemáticas y estadística (Ingeniería Química, UTN Mendoza). Mi objetivo es aplicar la ciencia de datos al ámbito **industrial y de procesos** para mejorar la toma de decisiones en entornos complejos.
-
-<br clear="right" />
 
 ---
 
